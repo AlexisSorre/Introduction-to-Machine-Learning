@@ -16,7 +16,7 @@ Each notebook focuses on key algorithms, their implementations and limits using 
   - Decision Trees and Random Forests  
 
 - **Unsupervised Learning**
-  - Clustering (K-Means,)  
+  - Clustering (K-Means,Spectral CLustering)  
   - Dimensionality Reduction (PCA)
 
 ## Tools Libraries
